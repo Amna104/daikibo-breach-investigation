@@ -11,7 +11,7 @@ This repository contains the investigation of a suspected cyber security breach 
 - **Client**: Daikibo Industrials
 - **Incident**: Unauthorized access to production status board
 - **Impact**: Production line stoppage, sensitive data leak
-- **Investigation Period**: June 25-29, 2021
+- **Investigation Period**: June 25-29, 2025
 
 ## 🎯 Investigation Objectives
 
@@ -80,7 +80,7 @@ This repository contains the investigation of a suspected cyber security breach 
 
 ### Log File Structure
 - **Format**: Grouped by IP address
-- **Time Range**: June 25-29, 2021
+- **Time Range**: June 25-29, 2025
 - **Network**: Internal Daikibo network (192.168.0.x)
 - **Authentication**: Session-based with user IDs
 
